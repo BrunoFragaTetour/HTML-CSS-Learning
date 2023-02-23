@@ -1,2 +1,2 @@
-# HTML-CSS-Learning
- Repositório com estudos de HTML e CSS
+# HTML CSS Learning
+That's a repository with my studies about *HTML* and *CSS*
